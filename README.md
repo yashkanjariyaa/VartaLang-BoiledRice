@@ -1,4 +1,4 @@
-# Hackathon Project README
+# VartaLang
 
 ## Overview
 
